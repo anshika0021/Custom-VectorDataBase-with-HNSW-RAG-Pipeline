@@ -1,7 +1,7 @@
 # 🧠 NeuroNest — High-Performance Vector Database & RAG Pipeline
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anshika0021/Custom-VectorDataBase-with-HNSW-RAG-Pipeline/main/logo_placeholder.png" width="600" alt="NeuroNest Logo">
+  <img src="neuronest.jpeg" width="600" alt="NeuroNest Logo">
 </p>
 
 <p align="center">
